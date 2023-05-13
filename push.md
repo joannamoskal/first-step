@@ -1,0 +1,1 @@
+wysyla dane do znadlego repo
