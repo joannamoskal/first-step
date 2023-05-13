@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "164c971b7cf574c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "65a2ddf816a8dd7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b600d0cb5ebba3fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e596bf3bc9aa9f3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 3.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "27dc626d42fb5713"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "613c58bab99d80d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a522025b53abf1fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 3.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "27dc626d42fb5713"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "536aaf217281e891",
+    "type": "split",
+    "children": [
+      {
+        "id": "5740899b666e81b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7b07ce38473f45c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86641ad74919d19a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "614bef1bd930f05e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87e1f6e8c22aa137",
+    "type": "split",
+    "children": [
+      {
+        "id": "fec335510f04bf0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06cc4e6fce4e45c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lesson 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02e643debcfb7a82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lesson 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ca1884b1f09eb6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6fd80ae36f306ad5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lesson 3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e596bf3bc9aa9f3f",
+  "lastOpenFiles": [
+    "asia.md",
+    "Lesson 3.md"
+  ]
+}
