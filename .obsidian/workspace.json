@@ -11,29 +11,35 @@
             "id": "b600d0cb5ebba3fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "asia.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "e596bf3bc9aa9f3f",
+            "id": "88f92acbb4734020",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Lesson 3.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
-            },
-            "group": "27dc626d42fb5713"
+            }
+          },
+          {
+            "id": "2fc0f54f0797e4c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "push.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "613c58bab99d80d0",
@@ -43,14 +49,9 @@
             "id": "a522025b53abf1fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lesson 3.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "27dc626d42fb5713"
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -118,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lesson 3.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -179,9 +176,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e596bf3bc9aa9f3f",
+  "active": "b600d0cb5ebba3fc",
   "lastOpenFiles": [
+    "gita.md",
+    "Lesson 3.md",
+    "push.md",
+    "md.md",
+    "Pasted image 20230513165342.png",
     "asia.md",
-    "Lesson 3.md"
+    "Untitled.md",
+    "Pasted image 20230513164722.png",
+    "markdown.md"
   ]
 }
