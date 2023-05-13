@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "2e6eae0963359b55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "88f92acbb4734020",
             "type": "leaf",
             "state": {
@@ -39,21 +51,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "613c58bab99d80d0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a522025b53abf1fa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lesson 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lesson 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lesson 1.md"
+              }
             }
           }
         ]
@@ -176,15 +179,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b600d0cb5ebba3fc",
+  "active": "2e6eae0963359b55",
   "lastOpenFiles": [
+    "Lesson 1.md",
     "gita.md",
     "Lesson 3.md",
     "push.md",
     "md.md",
     "Pasted image 20230513165342.png",
     "asia.md",
-    "Untitled.md",
     "Pasted image 20230513164722.png",
     "markdown.md"
   ]
