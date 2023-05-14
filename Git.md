@@ -1,0 +1,1 @@
+Git is a kind of tool, software which is a distributed version control system (VCS) that tracks changes in any set of computer files.
