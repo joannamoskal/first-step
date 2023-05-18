@@ -1,11 +1,16 @@
-**Here's a kind of the recup what I've learnt during our lesson.
 
-The lesson was about [[Git]].
+# What is Git?
+Here's a kind of the recap what I've learnt during our lesson.
 
+The lesson was about ![[Git]].
+
+## Definition
 Git is a kind of tool, software which is a distributed version control system [[VCS]] that tracks changes in any set of computer files.
 
+## Installation
 Firstly, I had to install this software on my computer. To do that I opened google browser and I found the Git website https://git-scm.com/downloads from where I could download it. It is available for free. I chose the latest version and the downloading started automatically.
 
+## Creating a new repository
 Then I got to know that this system uses commands, and that Git VCS allows me to create repositories. Each [[repository]] is a kind of library where all my file changes will be stored. 
 
 First, I made a folder (= directory) on my "D" disc partition. I called it "GIT". Next I found out that there is a website https://git-scm.com/docs where I can find references on how to do what I want to do when it comes to Git VCS. I found a command which allows me to create a new, empty repository.
@@ -17,7 +22,6 @@ This command is: 
 *git init*
 
 [[git init]]
-
 
 So I wrote it down and I copied the link address of my folder which is D:\Git (it is a path to my repositories) and I clicked the enter key on my keyboard to run this command. It allowed me to create a new repository in a GIT folder. Then I opened it and clicked "view" and I marked hidden elements and I found out that in this directory there is a hidden element which is called  .git. As it is the same name as my repository, I created another repository which I called: ABC. 
 
@@ -111,3 +115,4 @@ this command shows the name of the commit which is automatically added - it is u
   
 **
 **
+

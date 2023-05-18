@@ -1,3 +1,8 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "livePreview": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en"
+  ]
 }
