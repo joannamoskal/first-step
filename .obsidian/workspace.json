@@ -11,12 +11,8 @@
             "id": "6bb1ec73c663e441",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lesson 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -25,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "markdown-syntax.md",
+                "file": "Git basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#englih",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,12 +74,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "87e1f6e8c22aa137",
@@ -99,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown-syntax.md",
+                "file": "Git basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdown-syntax.md",
+                "file": "Git basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "markdown-syntax.md"
+                "file": "Git basics.md"
               }
             }
           }
@@ -162,8 +158,8 @@
   },
   "active": "ef3132b788558dd4",
   "lastOpenFiles": [
-    "Lesson 1.md",
     "markdown-syntax.md",
+    "Git basics.md",
     "hotkeys.md",
     "git init.md",
     "VCS.md",

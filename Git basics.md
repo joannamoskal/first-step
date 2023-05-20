@@ -2,7 +2,7 @@
 # What is Git?
 Here's a kind of the recap what I've learnt during our lesson.
 
-The lesson was about ![[Git]].
+The lesson was about [[Git]].
 
 ## Definition
 Git is a kind of tool, software which is a distributed version control system [[VCS]] that tracks changes in any set of computer files.
@@ -49,7 +49,7 @@ Then I used a command: 
 
 which allowed me to track my chosen file via Git VCS. 
 
-Command: 
+## Commands: 
 
 *git add* 
 [[git add ]]
@@ -86,7 +86,7 @@ then
 *git remote add origin https://github.com/joannamoskal/first-step.git
 
 [[git remote]]
-I did another change in my file. Then I committed it and pushed to my repository on Github via using bellowed command:
+I did another change in my file. Then I committed it and pushed to my remote repository on Github via using bellowed command:
 
 *git push* 
 
@@ -102,13 +102,13 @@ From now on every change I make in my text file named bla.txt I have to push to 
 
 There is also another hotkey which is worth to know:
 
-:q
+*:q*
 
 It allows you to change windows in GIT.
 
 There is also other command which I heard about during my first lesson:
 
-git log
+*git log*
 
 this command shows the name of the commit which is automatically added - it is usually a long combination of letters and numbers, the author and the date of the change.
 
