@@ -112,7 +112,10 @@ There is also other command which I heard about during my first lesson:
 
 this command shows the name of the commit which is automatically added - it is usually a long combination of letters and numbers, the author and the date of the change.
 
-  
+*git branch -m old-name new-name
+
+it allows me to change the name of the current branch
+
 **
 **
 
